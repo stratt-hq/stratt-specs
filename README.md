@@ -18,11 +18,14 @@ Formal specifications for the STRATT prompt engineering infrastructure.
 
 ### In Repository
 
-| Spec | Version | Path | Also In |
-|------|---------|------|---------|
-| STRATT Technical Architecture Document (TAD) | v1.1.0 | `specs/tad-v1.1.0.md` | Phase 1 Implementation |
-| MERIDIAN Specification | v1.1.0 | `specs/meridian-v1.1.0.md` | Phase 1 & 2 (Scoped) |
-| Canonical Serialisation Specification | v1.0.0 | `specs/canonical-serialisation-v1.md` | [stratt-run](https://github.com/stratt-hq/stratt-run) |
+| Spec | Version | Path | Type |
+|------|---------|------|------|
+| STRATT Technical Architecture Document (TAD) | v1.1.0 | `specs/tad-v1.1.0.md` | Architecture |
+| MERIDIAN Specification | v1.1.0 | `specs/meridian-v1.1.0.md` | Architecture |
+| Canonical Serialisation Specification | v1.0.0 | `specs/canonical-serialisation-v1.md` | Technical |
+| IC-01: CRDT Serialisation Boundary | 1.0.0 | `specs/ic-01-crdt-boundary.md` | Architectural Decision |
+| IC-02: Namespace Collision Policy | 1.0.0 | `specs/ic-02-namespace-policy.md` | Architectural Decision |
+| AC-01/AC-02: Lifecycle State Machine | 1.0.0 | `specs/ac-01-ac-02-lifecycle.md` | Architectural Decision |
 
 ## Spec Lifecycle
 
