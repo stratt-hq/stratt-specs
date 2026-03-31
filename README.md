@@ -21,6 +21,7 @@ Formal specifications for the STRATT prompt engineering infrastructure.
 | Spec | Version | Path | Also In |
 |------|---------|------|---------|
 | STRATT Technical Architecture Document (TAD) | v1.1.0 | `specs/tad-v1.1.0.md` | Phase 1 Implementation |
+| MERIDIAN Specification | v1.1.0 | `specs/meridian-v1.1.0.md` | Phase 1 & 2 (Scoped) |
 | Canonical Serialisation Specification | v1.0.0 | `specs/canonical-serialisation-v1.md` | [stratt-run](https://github.com/stratt-hq/stratt-run) |
 
 ## Spec Lifecycle
