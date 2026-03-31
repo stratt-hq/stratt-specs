@@ -25,6 +25,7 @@ Formal specifications for the STRATT prompt engineering infrastructure.
 | Canonical Serialisation Specification | v1.0.0 | `specs/canonical-serialisation-v1.md` | Technical |
 | IC-01: CRDT Serialisation Boundary | 1.0.0 | `specs/ic-01-crdt-boundary.md` | Architectural Decision |
 | IC-02: Namespace Collision Policy | 1.0.0 | `specs/ic-02-namespace-policy.md` | Architectural Decision |
+| IC-03: NATS Event Bridge | 1.0.0 | `specs/ic-03-nats-event-bridge.md` | Architectural Decision |
 | AC-01/AC-02: Lifecycle State Machine | 1.0.0 | `specs/ac-01-ac-02-lifecycle.md` | Architectural Decision |
 
 ## Spec Lifecycle
